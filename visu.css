@@ -1,0 +1,13 @@
+.chetos{
+    color: #3354ED;
+    font-family: "Comic Sans MS", cursiv, sans-serif;
+    font-size: 36px;
+}
+.bolitas{
+    color: hsl(294, 84%, 56%);
+    font-family: "Arial", cursiv, sans-serif;
+    font-size: 26px;
+}
+h1.chetos{
+    color: red;
+}
