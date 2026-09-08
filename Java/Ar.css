@@ -1,0 +1,14 @@
+button{
+    background: linear-gradient(to right, #0088ff, #00f2fe);
+    color: rgb(255, 0, 0);
+    border: none;
+    padding: 10px 20px;
+    border-radius: 8px;
+    cursor: pointer;
+    }
+
+    input{
+        background-color: black;
+    color: white;
+    border: 1px solid white;
+    }
